@@ -16,7 +16,7 @@
     "classnames": "^2.2.6",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "styled-components": "^4.4.0"
+    "styled-components": "^6.1.0"
   },
   "browserslist": {
     "production": [
